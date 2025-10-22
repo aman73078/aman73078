@@ -14,6 +14,14 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 </p>
 
+<p align="center">
+  <a href="https://stellarinnovation.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Stellar%20Innovation-Pvt.%20Ltd.-0078D7?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <br>
+  <sub>🏢 Full Stack Developer | Bangalore, India | 1.2+ Years Experience</sub>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
